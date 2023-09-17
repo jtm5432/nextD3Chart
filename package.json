@@ -1,0 +1,29 @@
+{
+  "name": "next-csv-chart",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/d3": "^7.4.0",
+    "@types/d3-scale": "^4.0.4",
+    "@types/d3-shape": "^3.1.2",
+    "autoprefixer": "^10.4.15",
+    "d3": "^7.8.5",
+    "papaparse": "^5.4.1",
+    "postcss": "^8.4.29",
+    "react-table": "^7.8.0",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/next": "^9.0.0",
+    "@types/papaparse": "^5.3.8",
+    "@types/react": "18.2.21",
+    "@types/react-table": "^7.7.15",
+    "typescript": "5.2.2"
+  }
+}
